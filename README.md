@@ -4,6 +4,7 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 
 ### Día 1: Gráfico de barras/columnas
 
-Consulta el código [aquí](code/dia_01.R)
+- Datos disponibles [aquí](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-07-31)
+- Consulta el código [aquí](code/dia_01.R)
 
 ![Día 1](images/dia_01.png)
