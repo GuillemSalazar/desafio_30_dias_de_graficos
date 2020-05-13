@@ -2,14 +2,17 @@ library(tidyverse)
 library(ggthemes)
 library(viridis)
 
+# Parametros
 url<-"https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-07-31/la_casa_de_papel.csv"
 personajes<-c("Tokio","Lisboa","Profesor","Moscú","Berlín","Nairobi","Río","Denver","Estocolmo","Helsinki","Bogotá","Palermo","Marsella")
 colores<-rev(viridis(23))
 twitter_dim<-list(width=unit(13,"cm"),height=unit(6.5,"cm"))
 
+# Cargar datos
 datos<-read_csv(url)
 personajes_occ<-sapply(personajes,function(x){grepl(x,datos$texto,)}) %>% as_tibble()
 
+# Limpiar datos
 datos<-datos %>%
   mutate(temporada_episodio=paste("S",str_pad(string = temporada,width = 2,pad = 0),"E",str_pad(string = episodio,width = 2,pad = 0),sep="")) %>%
   bind_cols(personajes_occ) %>%
@@ -20,6 +23,7 @@ datos<-datos %>%
   summarise(n=sum(presente)) %>%
   mutate(personaje=fct_reorder(personaje,n,sum,.desc = T))
 
+# Graficar
 g<-ggplot(data = datos,aes(x=personaje,y=n,fill=temporada_episodio)) +
   geom_bar(stat="identity",position = position_dodge()) +
   theme_hc() +
@@ -34,5 +38,6 @@ g<-ggplot(data = datos,aes(x=personaje,y=n,fill=temporada_episodio)) +
   xlab("") +
   labs(title="Menciones por personaje en La Casa de Papel",subtitle="Temporadas 1-3",caption=element_text("twitter: @GuillemSalazar"))
 
+# Guardar gráfico
 ggsave(filename = "../images/dia_01.png",g,width = twitter_dim$width,height = twitter_dim$height)
 
