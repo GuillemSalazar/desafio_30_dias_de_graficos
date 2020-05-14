@@ -15,3 +15,10 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Consulta el código [aquí](code/dia_02.R)
 
 ![Día 1](images/dia_02.png)
+
+### Día 3: Gráfico de puntos (COVID-19 Google Community Mobility Report)
+
+- Datos disponibles [aquí](https://www.google.com/covid19/mobility/)
+- Consulta el código [aquí](code/dia_03.R)
+
+![Día 1](images/dia_03.png)
