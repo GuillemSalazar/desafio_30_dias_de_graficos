@@ -14,18 +14,25 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Datos disponibles [aquí](https://www.google.com/covid19/mobility/)
 - Consulta el código [aquí](code/dia_02.R)
 
-![Día 1](images/dia_02.png)
+![Día 2](images/dia_02.png)
 
 ### Día 3: Gráfico de puntos (COVID-19 Google Community Mobility Report)
 
 - Datos disponibles [aquí](https://www.google.com/covid19/mobility/)
 - Consulta el código [aquí](code/dia_03.R)
 
-![Día 1](images/dia_03.png)
+![Día 3](images/dia_03.png)
 
-### Día 3: Gráfico con facetas (COVID-19 Google Community Mobility Report)
+### Día 4: Gráfico con facetas (COVID-19 Google Community Mobility Report)
 
 - Datos disponibles [aquí](https://www.google.com/covid19/mobility/)
 - Consulta el código [aquí](code/dia_04.R)
 
-![Día 1](images/dia_04.png)
+![Día 4](images/dia_04.png)
+
+### Día 5: Gráfico de arco (Migración interautonómica)
+
+- Datos disponibles [aquí](datos/flujo_migracion_2018.json) descargados del [INE](https://www.ine.es/jaxiT3/Tabla.htm?t=24378)
+- Consulta el código [aquí](code/dia_05.R)
+
+![Día 5](images/dia_05.png)
