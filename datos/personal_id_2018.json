@@ -1,0 +1,545 @@
+[{"Nombre":"Andalucía, Personal en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Andalucía", "Codigo":"ca01"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Total personal", "Codigo":"personalenejctotalpersonal"}
+]
+, "Data":[{"Valor":24731.9}
+]
+}
+,{"Nombre":"Andalucía, Personal en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Andalucía", "Codigo":"ca01"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Mujeres", "Codigo":"personalenejcmujeres"}
+]
+, "Data":[{"Valor":10047.2}
+]
+}
+,{"Nombre":"Andalucía, Investigadores en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Andalucía", "Codigo":"ca01"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Total personal", "Codigo":"investigadoresenejctotalpersonal"}
+]
+, "Data":[{"Valor":14347.4}
+]
+}
+,{"Nombre":"Andalucía, Investigadores en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Andalucía", "Codigo":"ca01"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Mujeres", "Codigo":"investigadoresenejcmujeres"}
+]
+, "Data":[{"Valor":5634.8}
+]
+}
+,{"Nombre":"Aragón, Personal en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Aragón", "Codigo":"ca02"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Total personal", "Codigo":"personalenejctotalpersonal"}
+]
+, "Data":[{"Valor":6124.4}
+]
+}
+,{"Nombre":"Aragón, Personal en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Aragón", "Codigo":"ca02"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Mujeres", "Codigo":"personalenejcmujeres"}
+]
+, "Data":[{"Valor":2406.7}
+]
+}
+,{"Nombre":"Aragón, Investigadores en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Aragón", "Codigo":"ca02"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Total personal", "Codigo":"investigadoresenejctotalpersonal"}
+]
+, "Data":[{"Valor":4049.1}
+]
+}
+,{"Nombre":"Aragón, Investigadores en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Aragón", "Codigo":"ca02"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Mujeres", "Codigo":"investigadoresenejcmujeres"}
+]
+, "Data":[{"Valor":1650.2}
+]
+}
+,{"Nombre":"Asturias, Principado de, Personal en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Asturias, Principado de", "Codigo":"ca03"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Total personal", "Codigo":"personalenejctotalpersonal"}
+]
+, "Data":[{"Valor":3331.1}
+]
+}
+,{"Nombre":"Asturias, Principado de, Personal en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Asturias, Principado de", "Codigo":"ca03"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Mujeres", "Codigo":"personalenejcmujeres"}
+]
+, "Data":[{"Valor":1443.3}
+]
+}
+,{"Nombre":"Asturias, Principado de, Investigadores en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Asturias, Principado de", "Codigo":"ca03"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Total personal", "Codigo":"investigadoresenejctotalpersonal"}
+]
+, "Data":[{"Valor":2299.7}
+]
+}
+,{"Nombre":"Asturias, Principado de, Investigadores en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Asturias, Principado de", "Codigo":"ca03"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Mujeres", "Codigo":"investigadoresenejcmujeres"}
+]
+, "Data":[{"Valor":1031.7}
+]
+}
+,{"Nombre":"Balears, Illes, Personal en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Balears, Illes", "Codigo":"ca04"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Total personal", "Codigo":"personalenejctotalpersonal"}
+]
+, "Data":[{"Valor":2685.4}
+]
+}
+,{"Nombre":"Balears, Illes, Personal en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Balears, Illes", "Codigo":"ca04"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Mujeres", "Codigo":"personalenejcmujeres"}
+]
+, "Data":[{"Valor":1124.2}
+]
+}
+,{"Nombre":"Balears, Illes, Investigadores en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Balears, Illes", "Codigo":"ca04"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Total personal", "Codigo":"investigadoresenejctotalpersonal"}
+]
+, "Data":[{"Valor":1902.4}
+]
+}
+,{"Nombre":"Balears, Illes, Investigadores en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Balears, Illes", "Codigo":"ca04"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Mujeres", "Codigo":"investigadoresenejcmujeres"}
+]
+, "Data":[{"Valor":849.1}
+]
+}
+,{"Nombre":"Canarias, Personal en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Canarias", "Codigo":"ca05"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Total personal", "Codigo":"personalenejctotalpersonal"}
+]
+, "Data":[{"Valor":3605.7}
+]
+}
+,{"Nombre":"Canarias, Personal en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Canarias", "Codigo":"ca05"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Mujeres", "Codigo":"personalenejcmujeres"}
+]
+, "Data":[{"Valor":1481.2}
+]
+}
+,{"Nombre":"Canarias, Investigadores en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Canarias", "Codigo":"ca05"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Total personal", "Codigo":"investigadoresenejctotalpersonal"}
+]
+, "Data":[{"Valor":2487.4}
+]
+}
+,{"Nombre":"Canarias, Investigadores en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Canarias", "Codigo":"ca05"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Mujeres", "Codigo":"investigadoresenejcmujeres"}
+]
+, "Data":[{"Valor":1013.4}
+]
+}
+,{"Nombre":"Cantabria, Personal en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Cantabria", "Codigo":"ca06"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Total personal", "Codigo":"personalenejctotalpersonal"}
+]
+, "Data":[{"Valor":1847.4}
+]
+}
+,{"Nombre":"Cantabria, Personal en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Cantabria", "Codigo":"ca06"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Mujeres", "Codigo":"personalenejcmujeres"}
+]
+, "Data":[{"Valor":769.0}
+]
+}
+,{"Nombre":"Cantabria, Investigadores en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Cantabria", "Codigo":"ca06"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Total personal", "Codigo":"investigadoresenejctotalpersonal"}
+]
+, "Data":[{"Valor":1183.9}
+]
+}
+,{"Nombre":"Cantabria, Investigadores en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Cantabria", "Codigo":"ca06"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Mujeres", "Codigo":"investigadoresenejcmujeres"}
+]
+, "Data":[{"Valor":494.0}
+]
+}
+,{"Nombre":"Castilla y León, Personal en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Castilla y León", "Codigo":"ca07"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Total personal", "Codigo":"personalenejctotalpersonal"}
+]
+, "Data":[{"Valor":9975.9}
+]
+}
+,{"Nombre":"Castilla y León, Personal en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Castilla y León", "Codigo":"ca07"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Mujeres", "Codigo":"personalenejcmujeres"}
+]
+, "Data":[{"Valor":4124.4}
+]
+}
+,{"Nombre":"Castilla y León, Investigadores en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Castilla y León", "Codigo":"ca07"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Total personal", "Codigo":"investigadoresenejctotalpersonal"}
+]
+, "Data":[{"Valor":6435.9}
+]
+}
+,{"Nombre":"Castilla y León, Investigadores en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Castilla y León", "Codigo":"ca07"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Mujeres", "Codigo":"investigadoresenejcmujeres"}
+]
+, "Data":[{"Valor":2695.7}
+]
+}
+,{"Nombre":"Castilla - La Mancha, Personal en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Castilla - La Mancha", "Codigo":"ca08"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Total personal", "Codigo":"personalenejctotalpersonal"}
+]
+, "Data":[{"Valor":3166.3}
+]
+}
+,{"Nombre":"Castilla - La Mancha, Personal en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Castilla - La Mancha", "Codigo":"ca08"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Mujeres", "Codigo":"personalenejcmujeres"}
+]
+, "Data":[{"Valor":1238.8}
+]
+}
+,{"Nombre":"Castilla - La Mancha, Investigadores en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Castilla - La Mancha", "Codigo":"ca08"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Total personal", "Codigo":"investigadoresenejctotalpersonal"}
+]
+, "Data":[{"Valor":1641.9}
+]
+}
+,{"Nombre":"Castilla - La Mancha, Investigadores en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Castilla - La Mancha", "Codigo":"ca08"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Mujeres", "Codigo":"investigadoresenejcmujeres"}
+]
+, "Data":[{"Valor":644.5}
+]
+}
+,{"Nombre":"Cataluña, Personal en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Cataluña", "Codigo":"ca09"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Total personal", "Codigo":"personalenejctotalpersonal"}
+]
+, "Data":[{"Valor":51830.4}
+]
+}
+,{"Nombre":"Cataluña, Personal en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Cataluña", "Codigo":"ca09"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Mujeres", "Codigo":"personalenejcmujeres"}
+]
+, "Data":[{"Valor":20976.6}
+]
+}
+,{"Nombre":"Cataluña, Investigadores en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Cataluña", "Codigo":"ca09"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Total personal", "Codigo":"investigadoresenejctotalpersonal"}
+]
+, "Data":[{"Valor":30391.0}
+]
+}
+,{"Nombre":"Cataluña, Investigadores en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Cataluña", "Codigo":"ca09"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Mujeres", "Codigo":"investigadoresenejcmujeres"}
+]
+, "Data":[{"Valor":11618.7}
+]
+}
+,{"Nombre":"Comunitat Valenciana, Personal en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Comunitat Valenciana", "Codigo":"ca10"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Total personal", "Codigo":"personalenejctotalpersonal"}
+]
+, "Data":[{"Valor":19305.9}
+]
+}
+,{"Nombre":"Comunitat Valenciana, Personal en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Comunitat Valenciana", "Codigo":"ca10"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Mujeres", "Codigo":"personalenejcmujeres"}
+]
+, "Data":[{"Valor":7869.5}
+]
+}
+,{"Nombre":"Comunitat Valenciana, Investigadores en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Comunitat Valenciana", "Codigo":"ca10"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Total personal", "Codigo":"investigadoresenejctotalpersonal"}
+]
+, "Data":[{"Valor":12158.9}
+]
+}
+,{"Nombre":"Comunitat Valenciana, Investigadores en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Comunitat Valenciana", "Codigo":"ca10"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Mujeres", "Codigo":"investigadoresenejcmujeres"}
+]
+, "Data":[{"Valor":4770.5}
+]
+}
+,{"Nombre":"Extremadura, Personal en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Extremadura", "Codigo":"ca11"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Total personal", "Codigo":"personalenejctotalpersonal"}
+]
+, "Data":[{"Valor":2191.9}
+]
+}
+,{"Nombre":"Extremadura, Personal en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Extremadura", "Codigo":"ca11"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Mujeres", "Codigo":"personalenejcmujeres"}
+]
+, "Data":[{"Valor":884.9}
+]
+}
+,{"Nombre":"Extremadura, Investigadores en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Extremadura", "Codigo":"ca11"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Total personal", "Codigo":"investigadoresenejctotalpersonal"}
+]
+, "Data":[{"Valor":1427.3}
+]
+}
+,{"Nombre":"Extremadura, Investigadores en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Extremadura", "Codigo":"ca11"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Mujeres", "Codigo":"investigadoresenejcmujeres"}
+]
+, "Data":[{"Valor":579.9}
+]
+}
+,{"Nombre":"Galicia, Personal en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Galicia", "Codigo":"ca12"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Total personal", "Codigo":"personalenejctotalpersonal"}
+]
+, "Data":[{"Valor":10630.6}
+]
+}
+,{"Nombre":"Galicia, Personal en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Galicia", "Codigo":"ca12"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Mujeres", "Codigo":"personalenejcmujeres"}
+]
+, "Data":[{"Valor":4343.4}
+]
+}
+,{"Nombre":"Galicia, Investigadores en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Galicia", "Codigo":"ca12"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Total personal", "Codigo":"investigadoresenejctotalpersonal"}
+]
+, "Data":[{"Valor":6529.9}
+]
+}
+,{"Nombre":"Galicia, Investigadores en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Galicia", "Codigo":"ca12"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Mujeres", "Codigo":"investigadoresenejcmujeres"}
+]
+, "Data":[{"Valor":2639.5}
+]
+}
+,{"Nombre":"Madrid, Comunidad de, Personal en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Madrid, Comunidad de", "Codigo":"ca13"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Total personal", "Codigo":"personalenejctotalpersonal"}
+]
+, "Data":[{"Valor":54221.7}
+]
+}
+,{"Nombre":"Madrid, Comunidad de, Personal en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Madrid, Comunidad de", "Codigo":"ca13"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Mujeres", "Codigo":"personalenejcmujeres"}
+]
+, "Data":[{"Valor":21587.7}
+]
+}
+,{"Nombre":"Madrid, Comunidad de, Investigadores en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Madrid, Comunidad de", "Codigo":"ca13"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Total personal", "Codigo":"investigadoresenejctotalpersonal"}
+]
+, "Data":[{"Valor":34016.0}
+]
+}
+,{"Nombre":"Madrid, Comunidad de, Investigadores en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Madrid, Comunidad de", "Codigo":"ca13"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Mujeres", "Codigo":"investigadoresenejcmujeres"}
+]
+, "Data":[{"Valor":12788.1}
+]
+}
+,{"Nombre":"Murcia, Región de, Personal en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Murcia, Región de", "Codigo":"ca14"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Total personal", "Codigo":"personalenejctotalpersonal"}
+]
+, "Data":[{"Valor":6148.6}
+]
+}
+,{"Nombre":"Murcia, Región de, Personal en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Murcia, Región de", "Codigo":"ca14"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Mujeres", "Codigo":"personalenejcmujeres"}
+]
+, "Data":[{"Valor":2443.4}
+]
+}
+,{"Nombre":"Murcia, Región de, Investigadores en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Murcia, Región de", "Codigo":"ca14"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Total personal", "Codigo":"investigadoresenejctotalpersonal"}
+]
+, "Data":[{"Valor":4051.8}
+]
+}
+,{"Nombre":"Murcia, Región de, Investigadores en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Murcia, Región de", "Codigo":"ca14"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Mujeres", "Codigo":"investigadoresenejcmujeres"}
+]
+, "Data":[{"Valor":1566.7}
+]
+}
+,{"Nombre":"Navarra, Comunidad Foral de, Personal en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Navarra, Comunidad Foral de", "Codigo":"ca15"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Total personal", "Codigo":"personalenejctotalpersonal"}
+]
+, "Data":[{"Valor":4941.6}
+]
+}
+,{"Nombre":"Navarra, Comunidad Foral de, Personal en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Navarra, Comunidad Foral de", "Codigo":"ca15"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Mujeres", "Codigo":"personalenejcmujeres"}
+]
+, "Data":[{"Valor":1933.3}
+]
+}
+,{"Nombre":"Navarra, Comunidad Foral de, Investigadores en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Navarra, Comunidad Foral de", "Codigo":"ca15"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Total personal", "Codigo":"investigadoresenejctotalpersonal"}
+]
+, "Data":[{"Valor":3077.3}
+]
+}
+,{"Nombre":"Navarra, Comunidad Foral de, Investigadores en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Navarra, Comunidad Foral de", "Codigo":"ca15"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Mujeres", "Codigo":"investigadoresenejcmujeres"}
+]
+, "Data":[{"Valor":1211.3}
+]
+}
+,{"Nombre":"País Vasco, Personal en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"País Vasco", "Codigo":"ca16"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Total personal", "Codigo":"personalenejctotalpersonal"}
+]
+, "Data":[{"Valor":19570.7}
+]
+}
+,{"Nombre":"País Vasco, Personal en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"País Vasco", "Codigo":"ca16"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Mujeres", "Codigo":"personalenejcmujeres"}
+]
+, "Data":[{"Valor":7080.1}
+]
+}
+,{"Nombre":"País Vasco, Investigadores en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"País Vasco", "Codigo":"ca16"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Total personal", "Codigo":"investigadoresenejctotalpersonal"}
+]
+, "Data":[{"Valor":13201.4}
+]
+}
+,{"Nombre":"País Vasco, Investigadores en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"País Vasco", "Codigo":"ca16"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Mujeres", "Codigo":"investigadoresenejcmujeres"}
+]
+, "Data":[{"Valor":4724.6}
+]
+}
+,{"Nombre":"Rioja, La, Personal en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Rioja, La", "Codigo":"ca17"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Total personal", "Codigo":"personalenejctotalpersonal"}
+]
+, "Data":[{"Valor":1285.5}
+]
+}
+,{"Nombre":"Rioja, La, Personal en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Rioja, La", "Codigo":"ca17"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Personal en EJC: Mujeres", "Codigo":"personalenejcmujeres"}
+]
+, "Data":[{"Valor":562.8}
+]
+}
+,{"Nombre":"Rioja, La, Investigadores en EJC: Total personal", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Rioja, La", "Codigo":"ca17"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Total personal", "Codigo":"investigadoresenejctotalpersonal"}
+]
+, "Data":[{"Valor":817.7}
+]
+}
+,{"Nombre":"Rioja, La, Investigadores en EJC: Mujeres", "MetaData":[{"Variable":{"Nombre":"Comunidades y Ciudades Autónomas", "Codigo":"CCAA"}
+, "Nombre":"Rioja, La", "Codigo":"ca17"}
+,{"Variable":{"Nombre":"tipo de indicador", "Codigo":"tipodeindicador"}
+, "Nombre":"Investigadores en EJC: Mujeres", "Codigo":"investigadoresenejcmujeres"}
+]
+, "Data":[{"Valor":395.4}
+]
+}
+]

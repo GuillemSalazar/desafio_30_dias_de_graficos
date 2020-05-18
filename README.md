@@ -36,3 +36,17 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Consulta el código [aquí](code/dia_05.R)
 
 ![Día 5](images/dia_05.png)
+
+### Día 6: Gráfico de donut (Personal en I+D por sexos)
+
+- Datos disponibles [aquí](datos/personal_id_2018.json) descargados del [INE](https://www.ine.es/jaxi/Tabla.htm?path=/t14/p057/a2018/&file=07001.px&L=0)
+- Consulta el código [aquí](code/dia_06.R)
+
+![Día 5](images/dia_06.png)
+
+### Día 7: Gráfico *ridgeline* (COVID-19 Google Community Mobility Report)
+
+- Datos disponibles [aquí](https://www.google.com/covid19/mobility/)
+- Consulta el código [aquí](code/dia_07.R)
+
+![Día 5](images/dia_07.png)
