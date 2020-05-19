@@ -50,3 +50,10 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Consulta el código [aquí](code/dia_07.R)
 
 ![Día 5](images/dia_07.png)
+
+### Día 8: Gráfico de contorno (Mapa topográfico de los Pirineos)
+
+- Datos disponibles [aquí](datos/gebco_2020_n43.68_s41.666_w-2.0_e3.2.nc) descargados de [GEBCO](https://download.gebco.net)
+- Consulta el código [aquí](code/dia_08.R)
+
+![Día 5](images/dia_08.png)
