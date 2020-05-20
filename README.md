@@ -57,3 +57,10 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Consulta el código [aquí](code/dia_08.R)
 
 ![Día 5](images/dia_08.png)
+
+### Día 9: Gráfico de áreas apiladas (Menciones al feminismo y cambio climático en los informativos de TVE)
+
+- Datos disponibles [aquí](https://verba.civio.es)
+- Consulta el código [aquí](code/dia_09.R)
+
+![Día 5](images/dia_09.png)
