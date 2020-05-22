@@ -26,7 +26,7 @@ for (i in 1:length(palette_names)){
 
 # Reunir gráficos
 g<-wrap_plots(plot_list,ncol = 3,nrow = 8) +
-  plot_annotation(title = "Probando paletas de colores",subtitle = "Paletas del paquete 'scico'",caption = "Código: https://github.com/GuillemSalazar/desafio_30_dias_de_graficos/blob/master/README.md\ntwitter: @GuillemSalazar")
+  plot_annotation(title = "Probando paletas de colores",subtitle = "Paletas del paquete 'scico'",caption = "Código: https://github.com/GuillemSalazar/desafio_30_dias_de_graficos\ntwitter: @GuillemSalazar")
 
 # Guardar gráfico
 ggsave(filename = "../images/dia_10.png",width = twitter_dim$width,height = twitter_dim$height)
