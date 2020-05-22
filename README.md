@@ -64,3 +64,10 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Consulta el código [aquí](code/dia_09.R)
 
 ![Día 5](images/dia_09.png)
+
+### Día 10: Explorar paletas de colores (Paletas del paquete *scico*)
+
+- Datos disponibles en el código.
+- Consulta el código [aquí](code/dia_10.R)
+
+![Día 5](images/dia_10.png)
