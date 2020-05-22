@@ -72,7 +72,7 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 
 ![Día 5](images/dia_10.png)
 
-### Día 10: Mapas de calor o *heatmaps* (Menciones a políticos en los telediarios de TVE)
+### Día 11: Mapas de calor o *heatmaps* (Menciones a políticos en los telediarios de TVE)
 
 - Datos disponibles [aquí](https://verba.civio.es)
 - Consulta el código [aquí](code/dia_11.R)
