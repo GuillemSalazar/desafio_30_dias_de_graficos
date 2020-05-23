@@ -78,3 +78,10 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Consulta el código [aquí](code/dia_11.R)
 
 ![Día 5](images/dia_11.png)
+
+### Día 12: Gráfico de paleta (*lollipop*)  (Emisiones de CO2 en la UE)
+
+- Datos disponibles [aquí](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-08-21)
+- Consulta el código [aquí](code/dia_12.R)
+
+![Día 5](images/dia_12.png)
