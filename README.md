@@ -92,3 +92,10 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Consulta el código [aquí](code/dia_13.R)
 
 ![Día 5](images/dia_13.gif)
+
+### Día 14: *Treemap*  (Parques nacionales de España)
+
+- Datos disponibles [aquí](datos/enp) descargados del [Ministerio para la transición ecológica](https://www.miteco.gob.es/es/cartografia-y-sig/ide/descargas/biodiversidad/enp.aspx))
+- Consulta el código [aquí](code/dia_14.R)
+
+![Día 5](images/dia_14.png)
