@@ -15,7 +15,7 @@ pn<-shp_df %>%
   mutate(label=paste(SITENAME," (",round(AREA_HA/100,1)," km2)",sep=""))
 
 # Graficar
-g<-ggplot(data=pn,aes(area=AREA_HA,fill=CCAA_N_ENP,label=label)) +
+g<-ggplot(data=pn,aes(area=AREA_HA,fill=CCAA_N_ENP,label=str_wrap(label,20))) +
   geom_treemap(color="black") +
   geom_treemap_text(min.size = 3) +
   scale_fill_manual(name="",values = c("#8dd3c7","#ffffb3","#bebada","#fb8072","#80b1d3","#fdb462","#b3de69","#fccde5","#d9d9d9","#bc80bd")) +
