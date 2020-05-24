@@ -85,3 +85,10 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Consulta el código [aquí](code/dia_12.R)
 
 ![Día 5](images/dia_12.png)
+
+### Día 13: Visualizar datos temporales  (Temperatura en Central Park desde 1869)
+
+- Datos disponibles [aquí](datos/noaa__ny_temp.csv) descargados de [NOAA](https://www.ncdc.noaa.gov/cdo-web/)
+- Consulta el código [aquí](code/dia_13.R)
+
+![Día 5](images/dia_13.gif)
