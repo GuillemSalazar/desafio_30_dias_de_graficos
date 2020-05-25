@@ -99,3 +99,10 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Consulta el código [aquí](code/dia_14.R)
 
 ![Día 5](images/dia_14.png)
+
+### Día 15: Dendrogramas  (COVID-19 Google Community Mobility Report)
+
+- Datos disponibles [aquí](https://www.google.com/covid19/mobility/)
+- Consulta el código [aquí](code/dia_15.R)
+
+![Día 5](images/dia_15.png)
