@@ -1,6 +1,6 @@
 library(tidyverse)
 library(vegan)
-library(dendextend)
+library(ggdendro)
 library(patchwork)
 
 # Parámetros
@@ -64,8 +64,8 @@ ggplot(aes(x=sub_region_1,y=perc_change,col=sector,fill=sector)) +
 
   
 p<-(plot2 | plot1) + plot_layout(widths = c(4,1),ncol = 2) +
-  plot_annotation(title="Ordenación de CCAA en España según patrones de movilidad",
-                  subtitle="Datos: COVID-19 Google's Community Mobility Report (semana 11 - 17 Mayo 2020)",
+  plot_annotation(title="Ordination of Spanish regions based on mobility patterns",
+                  subtitle="Data: COVID-19 Google's Community Mobility Report (week 11 - 17 Mayo 2020)",
        caption = "twitter: @GuillemSalazar\nCódigo: https://github.com/GuillemSalazar/desafio_30_dias_de_graficos")
 
 # Guardar gráfico
