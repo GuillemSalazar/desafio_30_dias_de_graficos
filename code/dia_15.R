@@ -5,7 +5,7 @@ library(patchwork)
 
 # Parámetros
 url<-"https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv?cachebust=722f3143b586a83f"
-twitter_dim<-list(width=unit(13,"cm"),height=unit(6.5,"cm"))
+twitter_dim<-list(width=unit(13/1.5,"cm"),height=unit(6.5/1.5,"cm"))
 phase_data<-data.frame(sub_region_1=c("Andalusia","Aragon","Asturias","Balearic Islands","Basque Country","Canary Islands","Cantabria","Castile and León","Castile-La Mancha","Catalonia","Community of Madrid","Extremadura","Galicia","La Rioja","Navarre","Region of Murcia","Valencian Community"),
            phase=c("Partial phase 1","Phase 1","Phase 1","Phase 1","Phase 1","Phase 1","Phase 1","Partial phase 1","Partial phase 1","Partial phase 1","Phase 0","Phase 1","Phase 1","Phase 1","Phase 1","Phase 1","Partial phase 1"))
 
@@ -37,7 +37,9 @@ dat_filtered_dist<-dat_filtered %>%
 cluster_res<-hclust(dat_filtered_dist)
 
 # Graficar
-plot1<-ggdendrogram(cluster_res,rotate = T)
+plot1<-ggdendrogram(cluster_res,rotate = T) +
+  theme(axis.text.x = element_blank(),
+        axis.text.y = element_text(color="black",hjust=0.5))
 
 plot2<-dat_filtered %>%
   group_by(sub_region_1,sector) %>%
@@ -45,17 +47,27 @@ plot2<-dat_filtered %>%
   ungroup() %>%
   mutate(sub_region_1=fct_relevel(sub_region_1,cluster_res$labels[cluster_res$order])) %>%
   mutate(sector=gsub("_"," ",gsub("_change_from_baseline","",sector))) %>%
-ggplot(aes(x=sub_region_1,y=perc_change,col=sector)) +
-  geom_point() +
+ggplot(aes(x=sub_region_1,y=perc_change,col=sector,fill=sector)) +
+  geom_hline(yintercept = 0,linetype="dotted") +
+  geom_point(alpha=0.8,shape=23) +
   coord_flip() +
   theme_minimal() +
-  theme(legend.position = "bottom",axis.text.y = element_blank()) +
+  theme(legend.position = "bottom",
+        axis.text.y = element_blank(),
+        axis.text.x = element_text(color="black"),
+        legend.text = element_text(size=6)) +
   ylab("Change in visits (% change to baseline)") +
   xlab("Region") +
-  scale_color_brewer(name=NULL,palette = "Set2")
+  ylim(c(-100,50)) +
+  scale_color_brewer(name=NULL,palette = "Set2") +
+  scale_fill_brewer(name=NULL,palette = "Set2")
 
   
-(plot2 | plot1) + plot_layout(widths = c(3,1),ncol = 2)
+p<-(plot2 | plot1) + plot_layout(widths = c(4,1),ncol = 2) +
+  plot_annotation(title="Ordenación de CCAA en España según patrones de movilidad",
+                  subtitle="Datos: COVID-19 Google's Community Mobility Report (semana 11 - 17 Mayo 2020)",
+       caption = "twitter: @GuillemSalazar\nCódigo: https://github.com/GuillemSalazar/desafio_30_dias_de_graficos")
 
 # Guardar gráfico
-#ggsave(filename = "../images/dia_04.png",p,width = twitter_dim$width,height = twitter_dim$height)
+ggsave(filename = "../images/dia_15.png",p,width = twitter_dim$width,height = twitter_dim$height)
+
