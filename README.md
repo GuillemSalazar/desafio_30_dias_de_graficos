@@ -113,3 +113,10 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Consulta el código [aquí](code/dia_16.R)
 
 ![Día 16](images/dia_16.png)
+
+### Día 17: Sankey plot  (Paruqes naturales y nacionales)
+
+-- Datos disponibles [aquí](datos/enp) descargados del [Ministerio para la transición ecológica](https://www.miteco.gob.es/es/cartografia-y-sig/ide/descargas/biodiversidad/enp.aspx)  
+- Consulta el código [aquí](code/dia_17.R)
+
+![Día 17](images/dia_17.png)
