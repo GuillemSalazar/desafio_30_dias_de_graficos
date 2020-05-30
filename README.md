@@ -127,3 +127,11 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Consulta el código [aquí](code/dia_18.R)
 
 ![Día 18](images/dia_18.png)
+
+### Día 19: Gráficos de flujo o *stream graph*  (Menciones a los términos *refugiados* y *Siria* en los telediarios de TVE)
+
+- Datos disponibles [aquí](https://verba.civio.es)
+- Consulta el código [aquí](code/dia_19.R)
+
+
+![Día 18](images/dia_19.png)
