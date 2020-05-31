@@ -134,4 +134,11 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Consulta el código [aquí](code/dia_19.R)
 
 
-![Día 18](images/dia_19.png)
+![Día 19](images/dia_19.png)
+
+### Día 20: Redes  (Migración interautonómica)
+
+- Datos disponibles [aquí](datos/flujo_migracion_2018.json) descargados del [INE](https://www.ine.es/jaxiT3/Tabla.htm?t=24378)
+- Consulta el código [aquí](code/dia_20.R)
+
+![Día 20](images/dia_20.png)
