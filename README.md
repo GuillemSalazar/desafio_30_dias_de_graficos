@@ -142,3 +142,10 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Consulta el código [aquí](code/dia_20.R)
 
 ![Día 20](images/dia_20.png)
+
+### Día 21: Gráficos con anotaciones (Menciones al término *investidura* en los telediarios de TVE)
+
+- Datos disponibles [aquí](https://verba.civio.es)
+- Consulta el código [aquí](code/dia_21.R)
+
+![Día 21](images/dia_21.png)
