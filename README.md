@@ -143,7 +143,7 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 
 ![Día 20](images/dia_20.png)
 
-### Día 21: Gráficos con anotaciones (Menciones al término *investidura* en los telediarios de TVE)
+### Día 21: Gráficos con anotaciones (Menciones al término *coalición* en los telediarios de TVE)
 
 - Datos disponibles [aquí](https://verba.civio.es)
 - Consulta el código [aquí](code/dia_21.R)

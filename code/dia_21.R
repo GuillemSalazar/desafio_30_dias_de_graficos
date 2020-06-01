@@ -73,11 +73,12 @@ g<-ggplot(data=datos_ncitas,aes(x=year_month,y=ncitas,fill=search_term,color=sea
   theme_minimal() +
   xlab(NULL) +
   ylab("Número de menciones al mes") +
-  theme(legend.position = "bottom",legend.key.size = unit(0.3,"cm")) +
-  labs(title="Feminismo y cambio climático se cuelan el los telediarios",subtitle="Menciones en los telediarios de TVE (Datos: verba.civio.es)",fill="Término mencionado",caption=element_text("twitter: @GuillemSalazar")) +
-  #geom_vline(data=annot_df,aes(xintercept=fecha),linetype=2,alpha=0.7) +
-  geom_segment(data=annot_df,aes(x=fecha,xend=fecha,y=0,yend=y),inherit.aes = F) +
-  geom_label(data=annot_df,aes(x=fecha,y=y,label=label),size=2,inherit.aes = F,hjust=0.8,label.padding = unit(0.15,"lines"))
+  theme(legend.position = "none") +
+  labs(title=expression(paste("Menciones al término"~bolditalic(coalición)~"en los telediarios de TVE")),
+       subtitle="Datos: verba.civio.es",
+       caption = "Código: https://github.com/GuillemSalazar/desafio_30_dias_de_graficos\ntwitter: @GuillemSalazar") +
+  geom_segment(data=annot_df,aes(x=fecha,xend=fecha,y=0,yend=y),inherit.aes = F,linetype="longdash") +
+  geom_label(data=annot_df,aes(x=fecha,y=y,label=label),size=2,inherit.aes = F,hjust=0.9,label.padding = unit(0.15,"lines"))
 
 
 # Guardar gráfico
