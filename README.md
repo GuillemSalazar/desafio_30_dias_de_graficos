@@ -149,3 +149,10 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Consulta el código [aquí](code/dia_21.R)
 
 ![Día 21](images/dia_21.png)
+
+### Día 22: Análisis de datos textuales (La Casa de Papel)
+
+- Datos disponibles [aquí](https://github.com/cienciadedatos/datos-de-miercoles/tree/master/datos/2019/2019-07-31)
+- Consulta el código [aquí](code/dia_22.R)
+
+![Día 22](images/dia_22.png)
