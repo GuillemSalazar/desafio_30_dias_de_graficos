@@ -6,7 +6,7 @@ library(scico)
 # Parametros
 url<-"https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2019/2019-07-31/la_casa_de_papel.csv"
 url_stopwords<-"https://countwordsfree.com/stopwords/spanish/txt"
-twitter_dim<-list(width=unit(13,"cm"),height=unit(6.5,"cm"))
+twitter_dim<-list(width=unit(13/1.5,"cm"),height=unit(6.5/1.5,"cm"))
 
 # Cargar datos
 datos<-read_csv(url)
