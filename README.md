@@ -163,3 +163,10 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Consulta el código [aquí](code/dia_23.R)
 
 ![Día 23](images/dia_23.png)
+
+### Día 24: Coropletas (Mapa de pisos de vegetación)
+
+- Datos disponibles [aquí](datos/series_p_tcm30-199924) descargados del [Ministerio para la transición ecológica](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza/informacion-disponible/memoria_mapa_series_veg_descargas.aspx)  
+- Consulta el código [aquí](code/dia_24.R)
+
+![Día 24](images/dia_24.png)
