@@ -170,3 +170,10 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Consulta el código [aquí](code/dia_24.R)
 
 ![Día 24](images/dia_24.png)
+
+### Día 25: Gráfico de violín (Frecuencia de incendios)
+
+- Datos disponibles [aquí](datos/frq_incendios2001-2014_dd-descarga_tcm30-199964.txt) descargados del [Ministerio para la transición ecológica](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza/acceso-rapido-datos.aspx)  
+- Consulta el código [aquí](code/dia_25.R)
+
+![Día 25](images/dia_25.png)
