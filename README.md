@@ -177,3 +177,10 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Consulta el código [aquí](code/dia_25.R)
 
 ![Día 25](images/dia_25.png)
+
+### Día 26: Diagramas de Marimekko (Personal en I+D por sexos)
+
+- Datos disponibles [aquí](datos/personal_id_2018.json) descargados del [INE](https://www.ine.es/jaxi/Tabla.htm?path=/t14/p057/a2018/&file=07001.px&L=0)
+- Consulta el código [aquí](code/dia_26.R)
+
+![Día 26](images/dia_26.png)
