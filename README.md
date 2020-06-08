@@ -191,3 +191,10 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Consulta el código [aquí](code/dia_27.R)
 
 ![Día 27](images/dia_27.gif)
+
+### Día 28: Diagrama de cuerdas  (Migración interautonómica)
+
+- Datos disponibles [aquí](datos/flujo_migracion_2018.json) descargados del [INE](https://www.ine.es/jaxiT3/Tabla.htm?t=24378)
+- Consulta el código [aquí](code/dia_28.R)
+
+![Día 28](images/dia_28.png)
