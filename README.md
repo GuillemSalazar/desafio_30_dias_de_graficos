@@ -185,7 +185,7 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 
 ![Día 26](images/dia_26.png)
 
-### Día 26: Gráfico animado (Producción de electricidad)
+### Día 27: Gráfico animado (Producción de electricidad)
 
 - Datos disponibles [aquí](datos/Data_Extract_From_Indicadores_del_desarrollo_mundial) descargados del [Banco Mundial](https://databank.bancomundial.org/home.aspx)
 - Consulta el código [aquí](code/dia_27.R)
@@ -198,3 +198,10 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Consulta el código [aquí](code/dia_28.R)
 
 ![Día 28](images/dia_28.png)
+
+### Día 29: Gráfico de coordenadas paralelas (Producción de electricidad)
+
+- Datos disponibles [aquí](datos/Data_Extract_From_Indicadores_del_desarrollo_mundial) descargados del [Banco Mundial](https://databank.bancomundial.org/home.aspx)
+- Consulta el código [aquí](code/dia_29.R)
+
+![Día 29](images/dia_29.png)
