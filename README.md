@@ -205,3 +205,10 @@ Mis contribuciones al desafío [*#30díasdegráficos*](https://github.com/cienci
 - Consulta el código [aquí](code/dia_29.R)
 
 ![Día 29](images/dia_29.png)
+
+### Día 30: Diagrama de área polar o de Florence Nightingale (Nacimientos y defunciones)
+
+- Datos disponibles [aquí](datos/defunciones.csv) y [aqui](datos/nacimientos.csv) descargados del [INE](https://www.ine.es)
+- Consulta el código [aquí](code/dia_230.R)
+
+![Día 30](images/dia_30.png)
